@@ -1,6 +1,6 @@
 let userScore =0;
 let compScore =0;
-console.log("test")
+
 const choices = document.querySelectorAll(".choice");
 const msg = document.querySelector("#msg");
 
